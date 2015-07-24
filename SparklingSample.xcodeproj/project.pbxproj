@@ -13,6 +13,7 @@
 		135436D51B62693B00C1AE85 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 135436D41B62693B00C1AE85 /* Images.xcassets */; };
 		135436D81B62693B00C1AE85 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 135436D61B62693B00C1AE85 /* LaunchScreen.xib */; };
 		135436E41B62693B00C1AE85 /* SparklingSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 135436E31B62693B00C1AE85 /* SparklingSampleTests.swift */; };
+		135436EE1B62695D00C1AE85 /* sunset.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 135436ED1B62695D00C1AE85 /* sunset.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		135436DD1B62693B00C1AE85 /* SparklingSampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SparklingSampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		135436E21B62693B00C1AE85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		135436E31B62693B00C1AE85 /* SparklingSampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SparklingSampleTests.swift; sourceTree = "<group>"; };
+		135436ED1B62695D00C1AE85 /* sunset.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sunset.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		135436CA1B62693B00C1AE85 /* SparklingSample */ = {
 			isa = PBXGroup;
 			children = (
+				135436ED1B62695D00C1AE85 /* sunset.jpg */,
 				135436CD1B62693B00C1AE85 /* AppDelegate.swift */,
 				135436CF1B62693B00C1AE85 /* ViewController.swift */,
 				135436D11B62693B00C1AE85 /* Main.storyboard */,
@@ -195,6 +198,7 @@
 				135436D31B62693B00C1AE85 /* Main.storyboard in Resources */,
 				135436D81B62693B00C1AE85 /* LaunchScreen.xib in Resources */,
 				135436D51B62693B00C1AE85 /* Images.xcassets in Resources */,
+				135436EE1B62695D00C1AE85 /* sunset.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

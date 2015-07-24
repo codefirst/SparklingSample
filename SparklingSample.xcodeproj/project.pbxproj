@@ -159,6 +159,7 @@
 		135436C01B62693B00C1AE85 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = mzp;
 				TargetAttributes = {
@@ -413,6 +414,7 @@
 				135436E91B62693B00C1AE85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		135436EA1B62693B00C1AE85 /* Build configuration list for PBXNativeTarget "SparklingSampleTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +423,7 @@
 				135436EC1B62693B00C1AE85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
